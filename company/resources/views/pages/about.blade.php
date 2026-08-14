@@ -804,7 +804,7 @@
             <p>
                 We explore fresh ideas, modern designs,
                 and new ways to make everyday footwear
-                better.
+                better let's go.
             </p>
 
         </div>
