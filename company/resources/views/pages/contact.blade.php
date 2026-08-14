@@ -972,7 +972,7 @@
 
 
     <span>
-        © 2026 AUGZUU. All Rights Reserved.
+        © 2026 AUGZUU. All Rights Reserved Babyg.
     </span>
 
 </footer>
