@@ -804,7 +804,7 @@
             <p>
                 We explore fresh ideas, modern designs,
                 and new ways to make everyday footwear
-                better let's go baby i love you  .
+                better let's go baby i love you, ggg
             </p>
 
         </div>
